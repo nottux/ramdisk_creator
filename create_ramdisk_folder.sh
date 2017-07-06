@@ -1,3 +1,4 @@
+#!/bin/sh
 if [ -f "$HOME/ramdisk_folder_locations.txt" ]
 then echo "Here are the locations in $HOME/ramdisk_folder_locations.txt file :"
 cat "$HOME/ramdisk_folder_locations.txt"
